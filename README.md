@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Adityanand Singh 👋</h1>
 
-<!--
-**adityanandsingh/adityanandsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Digital Consultant**  
+💡 Passionate about building scalable web apps and optimizing digital strategies.  
 
-Here are some ideas to get you started:
+### 🛠 **Tech Stack & Expertise**  
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Bootstrap, TailwindCSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Cloud & DevOps:** AWS, Vercel, Netlify  
+- **Other Skills:** SEO Optimization, A/B Testing, Payment Integrations (Stripe, Razorpay)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 **Current Projects**  
+
+- 🌍 Smart Travel Booking System *(React, Node.js, AWS)*  
+
+### 📫 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityanandsingh)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/adityanandsingh)  
+
